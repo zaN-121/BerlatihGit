@@ -16,3 +16,5 @@ adalah
 user
 computerB
 ========== computerB
+
+test untuk merging 2 branch berbeda dan berbeda repository
