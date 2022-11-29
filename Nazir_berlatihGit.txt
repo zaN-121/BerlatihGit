@@ -2,3 +2,10 @@ Nama : Ahmad Nazir Arrobi
 Stack : Backend
 Hobi : Menonton
 Description : Saya suka programming karena programming itu menantang
+
+========= computerA
+saya
+adalah 
+user
+computerA
+========= computerA
