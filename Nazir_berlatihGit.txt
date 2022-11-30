@@ -21,3 +21,5 @@ test untuk merging 2 branch berbeda dan berbeda repository
 
 test edit conflict di github langsung sebagai project leader
 
+ini dari branch develompent komputer A
+
